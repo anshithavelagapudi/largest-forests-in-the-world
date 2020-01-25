@@ -61,6 +61,9 @@ Forests are lungs of the World and it is an important element for living beings.
  
 7. DAINTREE FOREST
 
+ * Located in Australia
+ * 463 square miles
+
  ![Github](https://blog.assets.traveltrivia.com/2019/02/Daintree-Forest.jpg)
  Image from: [link](https://blog.assets.traveltrivia.com/2019/02/Daintree-Forest.jpg)
  
